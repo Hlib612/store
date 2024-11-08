@@ -1,0 +1,13 @@
+.d-block{
+    max-width: 1000px;
+    max-height: 600px;
+}
+.carousel-item{
+    background-color: rgba(19, 165, 195, 0.603);
+}
+.span_color{
+    color: rgb(208, 255, 0);
+}
+.text-green{
+ color: green;
+}
